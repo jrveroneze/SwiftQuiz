@@ -6,3 +6,11 @@ iOS app to testing knowledge on programation language Swift, based on the course
 Application created for __Swift__ language studies
 
 # The final result
+
+![Swift Quiz - First Screen](swift-quiz-first-screen.png)
+
+![Swift Quiz - First Screen](swift-quiz-start-screen.png)
+
+![Swift Quiz - Second Screen](swift-quiz-question-screen.png)
+
+![Swift Quiz - Third Screen](swift-quiz-results-screen.png)
